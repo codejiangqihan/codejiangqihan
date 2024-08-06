@@ -13,6 +13,6 @@ hello，我是启涵，这是我的github主页
 - [本博客成功入驻腾讯云社区啦！](https://www.codeqihan.com/post/56/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.50 %
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.58 %
 
 <!--END_SECTION:progressBar-->

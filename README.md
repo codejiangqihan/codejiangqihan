@@ -13,6 +13,6 @@ hello，我是启涵，这是我的github主页
 - [博客接入Artalk评论啦！](https://www.codeqihan.com/post/57/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.74 %
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.81 %
 
 <!--END_SECTION:progressBar-->

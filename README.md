@@ -1,4 +1,4 @@
-hello，我是启涵，这是我的github主页
+这是我的Github主页
 # 我的博客最近的文章
 <!-- BLOG-POST-LIST:START -->
 - [com又涨价了](https://www.codeqihan.com/post/com-zhangjia-2024/)

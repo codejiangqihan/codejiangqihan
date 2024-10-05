@@ -13,6 +13,6 @@
 - [博客接入Artalk评论啦！](https://www.codeqihan.com/post/57/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 75.98 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 76.06 %
 
 <!--END_SECTION:progressBar-->

@@ -13,6 +13,6 @@
 - [我的jsdelivr镜像支持加载图片啦！](https://www.codeqihan.com/post/58/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 80.98 %
+⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 81.04 %
 
 <!--END_SECTION:progressBar-->

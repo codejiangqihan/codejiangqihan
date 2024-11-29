@@ -13,6 +13,6 @@
 - [免费提供动态博客托管服务](https://www.codeqihan.com/post/mianfeidongtaiboketuoguan/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ███████████████████████████▁▁▁ } 91.15 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 91.22 %
 
 <!--END_SECTION:progressBar-->

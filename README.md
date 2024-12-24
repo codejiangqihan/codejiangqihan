@@ -13,6 +13,6 @@
 - [我的去中心化大事记平台上线啦！](https://www.codeqihan.com/post/quzhongxinhuadashiji/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { █████████████████████████████▁ } 97.98 %
+⏳ Year progress { █████████████████████████████▁ } 98.05 %
 
 <!--END_SECTION:progressBar-->

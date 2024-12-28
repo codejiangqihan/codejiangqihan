@@ -13,6 +13,6 @@
 - [百度文心一格评测](https://www.codeqihan.com/post/wenxinyige/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { █████████████████████████████▁ } 99.01 %
+⏳ Year progress { █████████████████████████████▁ } 99.07 %
 
 <!--END_SECTION:progressBar-->

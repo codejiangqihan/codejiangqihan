@@ -13,6 +13,6 @@
 - [推荐一下哪吒探针](https://www.codeqihan.com/post/tui-jian-yi-xia-ne-zha-tan-zhen/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.67 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.75 %
 
 <!--END_SECTION:progressBar-->

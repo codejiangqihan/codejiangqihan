@@ -23,7 +23,7 @@ jobs:
       run: |
           node ./src/progressBar.js > ./progressBar.md
           python ./src/w.py
-          rm -rf ./progressBar.md
+          rm ./progressBar.md
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'

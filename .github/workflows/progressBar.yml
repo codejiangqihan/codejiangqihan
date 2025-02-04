@@ -1,5 +1,6 @@
 name: Progress Bar CI
-
+env:
+  TZ: Asia/Shanghai
 on:
   workflow_dispatch:
   schedule:

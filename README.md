@@ -13,6 +13,6 @@
 - [jsdelivr镜像停止服务](https://www.codeqihan.com/post/jsdelivr-jing-xiang-tin-zhi-fu-wu/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.75 %
+⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.82 %
 
 <!--END_SECTION:progressBar-->

@@ -13,6 +13,6 @@
 - [甲骨文东京AMD测评](https://www.codeqihan.com/post/oracle-jp-rongheguai/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.58 %
+⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.64 %
 
 <!--END_SECTION:progressBar-->

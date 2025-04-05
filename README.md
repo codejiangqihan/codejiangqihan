@@ -13,6 +13,6 @@
 - [com又涨价了](https://www.codeqihan.com/post/com-zhangjia-2024/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.78 %
+⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.86 %
 
 <!--END_SECTION:progressBar-->

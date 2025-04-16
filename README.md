@@ -13,6 +13,6 @@
 - [公共DOH收集](https://www.codeqihan.com/post/DOH-shou-ji/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.79 %
+⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 28.87 %
 
 <!--END_SECTION:progressBar-->

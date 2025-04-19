@@ -13,6 +13,6 @@
 - [甲骨文圣何塞AMD测评](https://www.codeqihan.com/post/oracle-sjc-rongheguai/)
 <!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.75 %
+⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.82 %
 
 <!--END_SECTION:progressBar-->
